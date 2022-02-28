@@ -8,14 +8,14 @@
 
 <br/>
 
-## Connect with me:
+### Connect with me:
 
-<a href="https://linkedin.com/in/raven-barrogo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkein" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raven-barrogo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/ravenbarrogs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 <br/>
 
-## Language and tools:
+### Language and tools:
 
 <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="padding-right:10px;" />
 <img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="padding-right:10px;" />
