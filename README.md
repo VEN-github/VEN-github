@@ -1,6 +1,6 @@
 # Hi there, I'm Raven 👋
 
-### A creative frontend developer from Philippines 👨‍💻
+### A creative frontend developer from the Philippines 👨‍💻
 
 - 🌱 I’m currently learning **JavaScript**
 - 👀 I’m interested to learn **React JS**
@@ -17,19 +17,13 @@
 
 ## Language and tools:
 
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-&nbsp;&nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="padding-right:10px;" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="padding-right:10px;" />
 
 <br/>
 <br/>
