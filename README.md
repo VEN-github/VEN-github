@@ -6,14 +6,10 @@
 - 👀 I’m interested to learn **React JS**
 - 📫 How to reach me **barrogoraven@gmail.com**
 
-<br/>
-
 ### Connect with me:
 
 <a href="https://linkedin.com/in/raven-barrogo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/ravenbarrogs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
-<br/>
 
 ### Language and tools:
 
