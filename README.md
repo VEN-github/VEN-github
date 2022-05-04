@@ -1,6 +1,6 @@
 # Hi there, I'm Raven 👋
 
-### A creative Frontend Developer from the Philippines 👨‍💻
+### A creative Front-End Developer from the Philippines 👨‍💻
 
 - 🌱 I’m currently learning **JavaScript**
 - 👀 I’m interested to learn **React JS**
