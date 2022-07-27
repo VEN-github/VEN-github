@@ -2,8 +2,8 @@
 
 ### A creative Front-End Developer from the Philippines 👨‍💻
 
-- 🌱 I’m currently learning **JavaScript**
-- 👀 I’m interested to learn **React JS**
+- 🌱 I’m currently learning **ReactJS**
+- 👀 I’m interested to learn **Node.js**
 - 📫 How to reach me **barrogoraven@gmail.com**
 
 ### Connect with me:
@@ -20,6 +20,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="padding-right:10px;" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" style="padding-right:10px;" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="padding-right:10px;" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" style="padding-right:10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="padding-right:10px;" /></a>
 <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp JS" style="padding-right:10px;" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" style="padding-right:10px;" /></a>
