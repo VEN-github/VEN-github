@@ -2,7 +2,7 @@
 
 ### A creative Front-End Developer from the Philippines 👨‍💻
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Vue.js**
 - 👀 I’m interested to learn **Node.js**
 - 📫 How to reach me **barrogoraven@gmail.com**
 
