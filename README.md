@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 - 👀 I’m interested to learn **Node.js**
+- 📄 Know about my experiences [View Resume](https://resume.showwcase.com/ravenbarrogo.pdf)
 - 📫 How to reach me **barrogoraven@gmail.com**
 
 ### Connect with me:
