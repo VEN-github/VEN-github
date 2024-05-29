@@ -67,8 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VEN-github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=VEN-github&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VEN-github&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/VEN-github/VEN-github/output/snake.svg" alt="Snake animation" />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VEN-github/VEN-github/output/snake.svg" alt="Snake animation" />
