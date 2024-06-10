@@ -3,7 +3,7 @@
 ### A creative Front-End Developer from the Philippines 👨‍💻
 
 - 🌱 I’m currently learning **Nuxt.js**
-- 📄 Know about my experiences [View Resume](https://ravenbarrogo.live/raven-barrogo-resume.pdf)
+- 📄 Know about my experiences [View Resume](https://www.ravenbarrogo.tech/raven-barrogo-resume.pdf)
 - 📫 How to reach me **barrogoraven@gmail.com**
 
 ## 🌐 Connect with me:
