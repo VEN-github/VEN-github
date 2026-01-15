@@ -89,7 +89,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VEN-github&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VEN-github&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=VEN-github&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VEN-github&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/VEN-github/VEN-github/output/snake.svg" alt="Snake animation" />
